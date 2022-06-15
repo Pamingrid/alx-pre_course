@@ -1,2 +1,1 @@
-Hello
-friends
+Update README file
